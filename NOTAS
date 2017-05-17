@@ -1,0 +1,16 @@
+			<i class="fa fa-cloud"></i>
+			<i class="fa fa-heart"></i>
+			<i class="fa fa-car"></i>
+			<i class="fa fa-file"></i>
+			<i class="fa fa-bars"></i>
+			
+	  border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+		
+		article {
+    -webkit-columns: 100px 3; /* Chrome, Safari, Opera */
+    -moz-columns: 100px 3; /* Firefox */
+    columns: 100px 2;
+}
